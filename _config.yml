@@ -1,0 +1,12 @@
+title: OpenLink
+description: A small VPN for reaching blocked sites. In testing.
+
+markdown: kramdown
+permalink: /:path/
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .gitignore
